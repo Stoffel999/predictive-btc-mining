@@ -32,6 +32,21 @@ This project is **available for acquisition or licensing**.
 4. **Negotiation** based on demonstrated performance & scope
 5. **Asset transfer**: code repo + database snapshot + 8h onboarding
 
+## About the operator
+
+This project is operated by an experienced network infrastructure engineer:
+
+- Co-founded and operated **SolidIRC** in the early 2000s — an IRC network running a **custom IRCd** (Unreal-based, co-developed with lead admin Phantom)
+- Peak concurrent users: **~40,000** across a multi-server linked topology
+- 10+ years operating 24/7 production daemons: P2P architecture, server-to-server linking, abuse mitigation, uptime under attack and sudden load
+- Now applying the same skill set to Bitcoin Core, OCEAN / DATUM Gateway, GPU compute orchestration and predictive template engineering
+
+You're not buying from a weekend hobbyist. You're buying from someone who has co-developed and operated production network infrastructure at scale for over two decades.
+
+## Localization
+
+The system ships with built-in support for **9 UI languages** (DE / EN / RU / ZH / ES / FR / JA / KO / AR) using a Smart-Hybrid translation pipeline. Additional languages or regional customizations can be added to your purchased version on request.
+
 ## Initial Contact
 
 Please include in your first message:
@@ -41,9 +56,10 @@ Please include in your first message:
 - Specific use case you have in mind
 - Whether you need NDA before further discussion
 
-**Email:** *[Add your contact email here when publishing]*
+**Telegram:** [@Stoffel999](https://t.me/Stoffel999)
+**Reddit:** u/Stoffel999 (or via reply on listing posts)
+**Bitcoin Talk:** Stoffel999
 **GitHub Issues:** open a non-confidential question via Issues
-**Other channels:** *[Add Twitter/X, LinkedIn etc. if desired]*
 
 ---
 
