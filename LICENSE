@@ -1,0 +1,17 @@
+MIT License
+
+Copyright (c) 2026 Predictive Bitcoin Mining Project
+
+THE INFORMATION IN THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+This repository contains documentation and architecture descriptions only.
+The full production source code is NOT covered by this license and remains
+proprietary, available under separate agreement.
+
+Performance numbers shown are from a live production deployment and are
+provided in good faith. They are reproducible from the underlying MongoDB
+datasets, which are available for inspection under NDA.
+
+For acquisition, licensing or partnership inquiries, see CONTACT.md.
