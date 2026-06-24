@@ -84,7 +84,7 @@ This project is being prepared for sale or licensing. Suitable counterparties:
 - Mining infrastructure investors
 - Crypto research groups / academic institutions
 
-**Contact:** *[Your contact info here]*
+**Contact:** Telegram @Stoffel999
 
 ---
 
