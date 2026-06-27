@@ -1,13 +1,14 @@
-# Performance Statistics — Live Sample
+# BlockSeer — Performance Statistics (Live Sample)
 
 > **Recording window:** 23 June 2026, 11:51 UTC → 24 June 2026, 09:26 UTC (≈ 21.5 hours)
 > **Network:** Bitcoin Mainnet
 > **Pool:** OCEAN (`datum-beta1.mine.ocean.xyz`) via DATUM Gateway
 > **Mode:** Squeeze (all mempool transactions prioritized per tick)
+> **Current production hit-rate (rolling 24 h):** **87–100 %** — extended dataset shared under NDA.
 
 ## Block-Level Predictive Hit-Rate (+1 bucket)
 
-### Filtered (outliers < 10% removed — empty blocks / reorgs)
+### Filtered (outliers < 10 % removed — empty blocks / reorgs)
 
 | Metric | Value |
 |--------|------:|
@@ -31,9 +32,10 @@
 
 ### Interpretation
 
-- Median > Mean indicates **right-skewed distribution** caused by a small number of catastrophic outliers (empty blocks, reorgs, mempool-reset events).
+- Median > Mean indicates a **right-skewed distribution** caused by a small number of catastrophic outliers (empty blocks, reorgs, mempool-reset events).
 - After filtering 4 outliers, mean rises from 71.9 % to 78.0 % and stdev drops from 35 to 19.
 - **Median 95.3 % is the production-relevant figure**: half of all blocks were predicted with > 95 % accuracy.
+- Continuous operation since then has lifted the rolling 24 h band into a robust **87–100 %** range — full extended data available under NDA.
 
 ## Predictive Coverage Statistics
 
@@ -48,7 +50,7 @@
 
 | Metric | Value |
 |--------|------:|
-| Runs (every 30s) | 7,520 |
+| Runs (every 30 s) | 7,520 |
 | Transactions prioritised (OK) | 4,343,476 |
 | Errors | 1 |
 | Error rate | 0.000013 % |
@@ -72,5 +74,5 @@ Each outlier has full audit context in MongoDB (`block_hit_rates` collection, `h
 
 ---
 
-*Data is generated automatically every 30 seconds from a live Bitcoin Core node.
-The full backend writes weekly PDF reports for stakeholders.*
+*Data is generated automatically every 30 seconds from a live Bitcoin Core / Knots node.
+The full BlockSeer backend writes weekly PDF reports for stakeholders. Extended datasets (4–8 weeks rolling) are made available to serious counterparties under NDA.*

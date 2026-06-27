@@ -1,17 +1,31 @@
-MIT License
+BlockSeer — Repository License (Documentation Only)
+=====================================================
 
-Copyright (c) 2026 Predictive Bitcoin Mining Project
+Copyright (c) 2026 Stoffel999. All rights reserved.
 
-THE INFORMATION IN THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
-KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+This repository ("Repository") contains MARKETING DOCUMENTATION,
+ARCHITECTURE OVERVIEWS and LIVE PERFORMANCE STATISTICS for the
+proprietary product BlockSeer.
 
-This repository contains documentation and architecture descriptions only.
-The full production source code is NOT covered by this license and remains
-proprietary, available under separate agreement.
+THE FULL PRODUCTION SOURCE CODE OF BLOCKSEER IS NOT INCLUDED IN THIS
+REPOSITORY. The product is licensed commercially under one of three
+licensing models described in LICENSE_MODELS.md and is delivered to
+licensees against a separate written commercial agreement and a
+non-disclosure agreement.
 
-Performance numbers shown are from a live production deployment and are
-provided in good faith. They are reproducible from the underlying MongoDB
-datasets, which are available for inspection under NDA.
+The text, diagrams, statistics and tables in this Repository may be
+read and shared for evaluation purposes. Redistribution of substantial
+portions is permitted only with attribution to Stoffel999 and a link
+to this Repository.
+
+THE INFORMATION IN THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT.
+
+Performance numbers shown in STATS.md are from a live production
+deployment and are provided in good faith. They are reproducible from
+the underlying MongoDB datasets, which are available for inspection
+under NDA.
 
 For acquisition, licensing or partnership inquiries, see CONTACT.md.
